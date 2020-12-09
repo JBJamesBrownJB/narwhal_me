@@ -1,0 +1,12 @@
+[package]
+name = "narwhal_me"
+version = "0.1.0"
+authors = ["JB <JamesKinnahBrown@gmail.com>"]
+edition = "2018"
+keywords = ["narwhal", "novelty", "wildlife", "art"]
+description = "Need an ascii Narwhal in a hurry?"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
